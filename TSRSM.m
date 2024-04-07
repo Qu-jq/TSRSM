@@ -4,7 +4,9 @@ classdef TSRSM < ALGORITHM
 % gr1 --- 20 --- The rewarded number of generations in the push stage
 % gr2 --- 200 --- The rewarded number of generations in the pull stage
 %lamda --- 1e-2 --- The threshold value for the rate of change
-
+%------------------------------- Reference --------------------------------
+%Qu J, Li X, Xiao H. A novel tri-stage with reward-switching mechanism for constrained multiobjective optimization problems[J].
+%Complex & Intelligent Systems, 2024: 1-31.
 
 %------------------------------- Copyright --------------------------------
 % Copyright (c) 2023 BIMK Group. You are free to use the PlatEMO for
